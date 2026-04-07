@@ -91,6 +91,8 @@ Note that this project **does not** adhere to [Semantic Versioning](https://semv
 
 ### Removed
 
+- We removed GPT4All as AI-provider as this project is currently unmaintained and does not receive any security updates. [#15439](https://github.com/JabRef/jabref/pull/15439)
+
 ## [6.0-alpha.5] – 2026-02-20
 
 ### Added
